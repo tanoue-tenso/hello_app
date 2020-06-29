@@ -1,0 +1,3 @@
+current directory: /Users/tanoue/2020_training/rails/hello_app/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json/ext/generator
+/Users/tanoue/.rbenv/versions/2.7.1/bin/ruby -I /Users/tanoue/.rbenv/versions/2.7.1/lib/ruby/2.7.0 -r ./siteconf20200629-12057-1ds037g.rb extconf.rb ''
+extconf failedno implicit conversion of nil into String
